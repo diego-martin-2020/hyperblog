@@ -32,11 +32,22 @@ body {
     text-align: left;
     border: 1px solid  #0a0a0a;
     margin: 0 auto;
+    
 }
-#container h1 {
-    font-size: 20px;
+
+h1 {
+    color: #9b2ea3;
 }
+
 #post {
-    background: white;
+ 
     padding: 1em;
+}
+#capocha {
+    color: #2e9ba3;
+    font-size: 20px;
+
+}
+strong {
+    color: #2e4ba3;
 }
