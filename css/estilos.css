@@ -19,6 +19,7 @@ body {
     padding: 10px;
     font-weight: normal;
     font-size: 0.8em;
+    box-shadow: 0px 20px 20px 0px #0a0a0a;
 
 }
 #container {
@@ -27,10 +28,12 @@ body {
     text-align: left;
     border: 1px solid  #0a0a0a;
     margin: 0 auto;
+
 }
 #post {
     color: blue;
 }
 h1 {
     color: brown;
+    box-shadow: 0px 10px 10px 0px #0a0a0a
 }
